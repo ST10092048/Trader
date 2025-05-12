@@ -1,2 +1,2 @@
 # Trader
-The Trading Applicatio
+The Trading Application
