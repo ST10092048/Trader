@@ -1,0 +1,39 @@
+User Stories
+As a user, I want to register and create a profile so that I can list and manage my items securely.
+
+As a user, I want to browse listed items by category or location so that I can easily find relevant products.
+
+As a user, I want to list items for sale, rent, or trade so that I can make use of my unused equipment.
+
+As a user, I want to communicate with other users through secure messaging so that I can negotiate terms before a transaction.
+
+As a user, I want to rate and review other users after a transaction so that others can make informed decisions.
+
+Selling/Trading User Stories
+As a seller, I want to upload pictures and details of my item so that buyers can understand what I’m offering.
+
+As a seller, I want to set the price or trade conditions so that I can receive fair value.
+
+As a seller, I want to see a history of my listings and completed transactions so that I can track my sales/trades.
+
+Renting User Stories
+As a renter, I want to set the duration and deposit for my item so that I can protect it during rentals.
+
+As a borrower, I want to see the availability calendar for rental items so that I can book during open times.
+
+Search & Discovery User Stories
+As a buyer, I want to search by item name, category, or price range so that I can find what I need quickly.
+
+As a buyer, I want to filter results by distance/location so that I can find nearby items for easier pickup.
+
+Trust & Safety User Stories
+As a user, I want to verify my identity through email/phone so that others can trust me on the platform.
+
+As a user, I want to report inappropriate listings or behavior so that the community remains safe and clean.
+
+As a platform admin, I want to review reported users or listings so that I can take appropriate moderation actions.
+
+Post-Transaction User Stories
+As a buyer/seller, I want to receive a confirmation after a deal is complete so that I know the transaction status.
+
+As a user, I want to receive in-app and email notifications for messages or transaction updates so that I don’t miss important events.

@@ -1,0 +1,57 @@
+USE CASES
+
+1. Peer-to-Peer Equipment Trade
+Actors: Two individual users
+Scenario:
+
+User A lists a camera they no longer use.
+
+User B offers to trade a tablet in exchange.
+
+The platform facilitates the negotiation, agreement, and feedback process.
+Benefit: Promotes reuse and avoids waste while allowing users to get value from unused items.
+
+2. Selling Unused Items
+Actors: Seller and Buyer
+Scenario:
+
+A user uploads photos and details of a power tool.
+
+A buyer nearby sees the listing and makes a purchase through the platform.
+Benefit: Quick monetization of unused equipment, easy buyer-seller connection.
+
+3. Renting Out Equipment
+Actors: Owner and Renter
+Scenario:
+
+A construction company rents out a generator for a week.
+
+The renter uses it temporarily and returns it after the period.
+Benefit: Cost-effective access to equipment without needing to purchase it.
+
+4. Promoting Sustainable Disposal
+Actors: Environmentally conscious user
+Scenario:
+
+A user lists old computer parts rather than discarding them.
+
+Another user interested in DIY projects buys or collects them.
+Benefit: Prevents e-waste and supports upcycling communities.
+
+5. Community-Based Exchange
+Actors: Local community members
+Scenario:
+
+A neighborhood group uses the app to trade tools and appliances.
+
+Items rotate among users depending on who needs them next.
+Benefit: Builds community trust and local resource-sharing networks.
+
+6. Verified Safe Transactions
+Actors: Any two users using the in-app system
+Scenario:
+
+All payments and communication occur within the platform.
+
+Ratings and reviews guide user trustworthiness.
+Benefit: Reduces scams and builds user confidence.
