@@ -1,0 +1,35 @@
+Technology Stack Overview
+The RENT/TRADER platform leverages a modular and scalable technology stack, divided across functional layers to ensure performance, maintainability, and cross-platform support.
+
+Python – Middleware (Data Transformation Layer)
+Purpose: Acts as the data processing and business logic layer responsible for data construction, transformation, and reconstruction.
+
+Use Case: Cleaning and preparing user data, formatting listing metadata, enabling analytics-ready structures.
+
+Why Python: Python’s powerful libraries (e.g., Pandas, NumPy) and speed of development make it ideal for handling complex data operations efficiently.
+
+🖧 C# – Middleware (Database Integration Layer)
+Purpose: Handles secure and structured communication with Azure SQL/Cloud databases.
+
+Use Case: Manages CRUD operations, transaction integrity, and validation between frontend inputs and backend data stores.
+
+Why C#: C# provides seamless Azure integration, strong type safety, and robust support for enterprise-scale database connectivity.
+
+Java – Backend (Core Application Logic Layer)
+Purpose: Powers the core functionality of the application, handling user authentication, routing, business workflows, and API services.
+
+Use Case: Supports APIs for item listing, offer management, user reviews, chat services, etc.
+
+Why Java: Java is chosen for its scalability, cross-platform compatibility, and extensive ecosystem, making it well-suited for backend services requiring reliability and performance.
+
+Flutter – Frontend (Cross-Platform UI Layer)
+Purpose: Delivers a unified user interface for Android, iOS, and Web with a single codebase.
+
+Use Case: Enables users to interact with the marketplace, including browsing, searching, chatting, listing items, and viewing profiles.
+
+Why Flutter: Flutter provides a native-like user experience with rapid development capabilities, ensuring consistent UI across platforms with minimal overhead.
+
+Hosting & Cloud Infrastructure
+Cloud Provider: Microsoft Azure
+
+Services Used: Azure SQL Database, Azure Functions, Azure App Service, Azure Storage, and Active Directory for authentication.
