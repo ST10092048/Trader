@@ -1,0 +1,2 @@
+# Trader
+The Trading Applicatio
