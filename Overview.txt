@@ -1,0 +1,38 @@
+Project Title: RENT/TRADER
+1. Purpose (Planning Phase)
+The purpose of the RENT/TRADER application is to provide a digital platform where users can buy, sell, or trade equipment and items they no longer need. By facilitating these exchanges, the application encourages reuse and recycling, reducing environmental waste and promoting a circular economy.
+
+The core idea reflects the principle that "one person's unused item may be another's valuable resource."
+
+2. Description (Requirements & Design Phase)
+RENT/TRADER is a community-driven marketplace designed for peer-to-peer exchanges of goods. It treats all users equally, offering a fair and accessible environment for listing and discovering items.
+
+Key features include:
+
+Listing items for rent, sale, or trade
+
+Secure user authentication and profiles
+
+Real-time messaging and notifications
+
+Category-based browsing and item search
+
+Feedback and rating system
+
+The application is designed with scalability and user experience in mind, and will be continuously refined based on user feedback and analytics.
+
+3. Mission (Deployment & Maintenance Phase)
+The mission of RENT/TRADER is to build a sustainable, user-centric digital marketplace that empowers individuals to extend the lifecycle of their items through responsible exchange.
+
+By fostering a culture of sharing and reuse, RENT/TRADER aims to:
+
+Minimize waste
+
+Promote sustainability
+
+Encourage community collaboration
+
+Offer an alternative to traditional consumerism
+
+Ongoing maintenance and updates will ensure platform stability, security, and responsiveness to emerging needs.
+ 
